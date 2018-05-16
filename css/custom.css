@@ -1,0 +1,60 @@
+.button{
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+.star_color	{ color:#990000;}
+.left-menu a{
+	text-decoration: none;
+	}
+.left-menu a p{
+	color: #2FD828;
+	background-color: #000;
+	padding:10px;
+	}
+.left-menu a p:hover{
+	color: #FFF;
+	background-color: #2FD828;
+}
+.left-table{
+	border: 1px solid #000;
+	}
+.left-table tr td{
+	border: 1px solid #000;
+
+}
+.theading td{
+	background-color: #aabbcc;
+	}
+	.row1 td{
+	background-color: #CCC;
+	color : #000;
+	padding: 5px ;
+	font-weight:bold;
+}
+.space{
+	min-height : 40px;
+	}
+.left-reserve p{
+	margin: 5px;
+}
+.left-reserve a p{
+	padding: 10px;
+	background-color: #0F0;
+	color: #000;
+}
+.left-reserve a p:hover{
+	background-color: #000;
+	color: #0F0;	
+}
+.active2{
+	background-color: #000!important;
+	color: #0F0!important;
+}
+.v_align 
+{
+	vertical-align:middle !important
+}	
+
+	 
+		
+	
